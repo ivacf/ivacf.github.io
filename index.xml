@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website of Ivan Carballo</title>
-    <link>https://ivanc.uk/</link>
+    <link>https://ivacf.github.io/</link>
     <description>Recent content on Website of Ivan Carballo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 13 May 2020 21:30:20 +0100</lastBuildDate>
     
-	<atom:link href="https://ivanc.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ivacf.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hi 👋</title>
-      <link>https://ivanc.uk/</link>
+      <link>https://ivacf.github.io/</link>
       <pubDate>Wed, 13 May 2020 21:30:20 +0100</pubDate>
       
-      <guid>https://ivanc.uk/</guid>
+      <guid>https://ivacf.github.io/</guid>
       <description>I&amp;rsquo;m Iván, a software engineer that enjoys building digital products to solve everyday problems.</description>
     </item>
     
